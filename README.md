@@ -1,2 +1,2 @@
-# quantum-machine-learning
-Quantum Machine Learning
+# Quantum Machine Learning
+Jin Yeom (jin.yeom@hudl.com)
